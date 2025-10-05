@@ -18,7 +18,9 @@
 
 
 ### Glad to see you here!  
-<div align="center">I’m an upcoming Data Analyst and Engineer, building my foundation in SQL, Python, and Power BI. I love solving real-world data problems cleaning, analyzing, and turning data into clear, actionable insights. I’m currently pursuing my B.Tech, developing hands-on skills through projects, hackathons, and real datasets.</div>  
+<div align="center">I’m R.V.S. Aditya, an upcoming Data Engineer passionate about building reliable and efficient data systems. I’m currently pursuing my B.Tech, developing skills in Python, SQL, and ETL workflows to understand how data moves, transforms, and scales.
+Alongside that, I’ve been gaining experience in data analytics as an intern, where I work on cleaning, analyzing, and visualizing data to draw insights and support decision-making. This hands-on exposure to analytics helps me design better pipelines that serve real business needs not just raw infrastructure.
+My focus now is on data engineering fundamentals databases, automation, and pipeline architecture while using my analytics experience to bridge the gap between raw data and actionable intelligence. I believe in building data systems that are clean, efficient, and built to last.</div>  
   
 
 <br/>  
@@ -102,4 +104,3 @@ They don't know how to join tables.
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
